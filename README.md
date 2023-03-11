@@ -1,6 +1,6 @@
 # Meno galerijos sistema
 
-Naudotos technologijos LARAVEL
+Naudotos technologijos: LARAVEL
 
 Sukurta sistemą kuri yra skirta meno galerijai, vartotojų paveikslų saugojimui.  
   
